@@ -6,8 +6,7 @@ Aplicativo validador de CPF construído com as tecnologias HTML, CSS, Javascript
 
 Você pode assistir a aula ao vivo da [Faculdade VINCIT](https://www.faculdadevincit.edu.br/) ministrada pelo Professor Esp. Alex Rocha no dia 01/04/2025.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g1CyjuUxG8E?si=M_CkuBgwLZPcREFN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[![Programação para internet - ao vivo - 01/04/2025 - Alex Rocha](https://img.youtube.com/vi/g1CyjuUxG8E/0.jpg)](https://www.youtube.com/watch?v=g1CyjuUxG8E)
 ## Dependências
 
 Para o desenvolvimento da aplicação, foi utilizado as seguintes tecnologias com auxílio de CDN
