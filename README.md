@@ -2,6 +2,8 @@
 
 Aplicativo validador de CPF construído com as tecnologias HTML, CSS, Javascript e o framework Bootstrap para os alunos dos cursos de Análise e Desenvolvimento de Sistemas e Engenharia de software da Faculdade VINCIT.
 
+Você também pode acessar o validador [clicando aqui](https://dcodebr.github.io/validador_cpf_bootstrap/).
+
 ## Aula ao vivo
 
 Você pode assistir a aula ao vivo da [Faculdade VINCIT](https://www.faculdadevincit.edu.br/) ministrada pelo Professor Esp. Alex Rocha no dia 01/04/2025.
